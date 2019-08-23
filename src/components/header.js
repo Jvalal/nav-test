@@ -8,7 +8,7 @@ const Header = ({ siteTitle }) => (
   <div className="HeaderGroup">
     <Link to="/"><img width="82" width="64" src={require('../images/ss-primary-orange.svg')} /></Link>
       <div className="HeaderLinks"></div>
-      <Link to="/courses">Courses</Link>
+      <Link to="/GIT">Courses</Link>
       <Link to="/downloads">Downloads</Link>
       <Link to="/workshops">Workshops</Link>
         <div className="Buy"></div>
